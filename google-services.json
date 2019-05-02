@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004642762853",
+    "firebase_url": "https://rubal-barterapp.firebaseio.com",
+    "project_id": "rubal-barterapp",
+    "storage_bucket": "rubal-barterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004642762853:android:9348d7c666ff8470",
+        "android_client_info": {
+          "package_name": "com.rubal.barterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004642762853-h4piqe4p4935584ai6d95lifaq5cci7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOTJiKgO1dXA-Vx3qAUf6VGjQVTixpIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004642762853-h4piqe4p4935584ai6d95lifaq5cci7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
